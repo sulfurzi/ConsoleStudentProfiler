@@ -1,0 +1,2 @@
+# ConsoleStudentProfiler
+Basic student profiler.
